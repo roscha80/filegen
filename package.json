@@ -1,0 +1,19 @@
+{
+  "name": "filegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roscha80/filegen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roscha80/filegen/issues"
+  },
+  "homepage": "https://github.com/roscha80/filegen#readme"
+}
