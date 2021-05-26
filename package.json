@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/roscha80/filegen/issues"
   },
-  "homepage": "https://github.com/roscha80/filegen#readme"
+  "homepage": "https://github.com/roscha80/filegen#readme",
+  "dependencies": {
+    "inquirer": "^8.1.0"
+  }
 }
