@@ -40,8 +40,7 @@ const questions = [
   {
     type: 'input',
     name: 'name',
-    message:
-      'Which functions and files would u like to create?\n Please seperate by comma ',
+    message: 'Which functions and files would u like to create?',
   },
   {
     type: 'checkbox',
