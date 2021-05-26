@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/roscha80/filegen.git"
   },
-  "author": "",
+  "author": "Rob Schade",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/roscha80/filegen/issues"
